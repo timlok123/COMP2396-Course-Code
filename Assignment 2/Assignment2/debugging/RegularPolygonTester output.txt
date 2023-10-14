@@ -1,0 +1,131 @@
+This the tester class of RegularPolygon, 
+Testing the constructors,
+The num of sides of P1 is 3
+The radius of P1 is 1.0
+The num of sides of P2 is 3
+The radius of P2 is 1.0
+The num of sides of P3 is 3
+The radius of P3 is 1.0
+The num of sides of P4 is 3
+The radius of P4 is 2.3
+The num of sides of P5 is 3
+The radius of P5 is 0.0
+Testing the getters and setters of RegularPolygon,
+The color is java.awt.Color[r=255,g=178,b=102]
+The filled(boolean) is true
+The xc is 5.6
+The yc is 4.5
+The theta is 1.0471975511965976
+The values in testxLocal are,
+4.0
+2.4
+The values in testyLocal are,
+3.3
+10.15
+The numOfSides is 5
+The testRadius is 1.5
+
+The below are the values returned by the getter function
+The return color is java.awt.Color[r=255,g=178,b=102]
+The return filled value is true
+The return theta is 1.0471975511965976
+The return Xc is 5.6
+The return Yc is 4.5
+The return numOfSides is 5
+The return radius is 1.5
+The below are the values of the returned X array
+1.5
+0.4635254915624212
+-1.213525491562421
+-1.2135254915624214
+0.46352549156242084
+The below are the values of the returned Y array
+0.0
+-1.4265847744427302
+-0.8816778784387098
+0.8816778784387096
+1.4265847744427305
+Testing the contain() methods, Below are the false case,
+false
+false
+false
+Below are the true case,
+true
+true
+true
+Below are the x coodinates of the vertices,
+1.0
+-0.4999999999999998
+-0.5000000000000004
+Below are the y coodinates of the vertices,
+0.0
+-0.8660254037844387
+0.8660254037844384
+Below are the x coodinates of the vertices,
+1.0
+-0.4999999999999998
+-0.5000000000000004
+Below are the y coodinates of the vertices,
+0.0
+-0.8660254037844387
+0.8660254037844384
+Below are the x coodinates of the vertices, 
+1.0
+-0.4999999999999998
+-0.5000000000000004
+Below are the y coodinates of the vertices,
+0.0
+-0.8660254037844387
+0.8660254037844384
+Below are the x coodinates of the vertices,
+2.3
+-1.1499999999999995
+-1.150000000000001
+Below are the y coodinates of the vertices,
+0.0
+-1.991858428704209
+1.991858428704208
+Below are the x coodinates of the vertices,
+0.0
+-0.0
+-0.0
+Below are the y coodinates of the vertices,
+0.0
+-0.0
+0.0
+Below are the x coodinates of the vertices,
+3.2042939940024233
+3.2042939940024233
+2.2655965784226036E-16
+-3.2042939940024233
+-3.2042939940024238
+-3.965939126417245E-15
+Below are the y coodinates of the vertices,
+1.8499999999999999
+-1.8499999999999999
+-3.7
+-1.8499999999999999
+1.849999999999999
+3.7
+Below are the x coodinates of the vertices,
+1.9972186842198225
+1.9972186842198225
+1.2343490298141937
+1.285879139104721E-16
+-1.2343490298141935
+-1.9972186842198225
+-1.9972186842198227
+-1.234349029814194
+-3.8576374173141627E-16
+1.2343490298141933
+Below are the y coodinates of the vertices,
+0.6489356881873896
+-0.6489356881873896
+-1.6989356881873898
+-2.1
+-1.6989356881873898
+-0.6489356881873898
+0.6489356881873893
+1.6989356881873894
+2.1
+1.69893568818739

@@ -1,0 +1,40 @@
+This the tester class of ShapeTester, 
+The color is java.awt.Color[r=255,g=178,b=102]
+The filled(boolean) is true
+The xc is 5.6
+The yc is 4.5
+The theta is 1.0471975511965976
+The values in testxLocal are, 
+4.0
+2.4
+The values in testyLocal are, 
+3.3
+10.15
+
+The below are the values returned by the getter function
+The return color is java.awt.Color[r=255,g=178,b=102]
+The return filled value is true
+The return theta is 1.0471975511965976
+The return Xc is 5.6
+The return Yc is 4.5
+The below are the values of the returned X array
+4.0
+2.4
+The below are the values of the returned Y array
+3.3
+10.15
+xc before translation is 5.6
+yc before translation is 4.5
+Testdx is 4.1
+Testdy is -3.9
+xc after translation is 9.7
+yc after translation is 0.6000000000000001
+theta before rotation is 1.0471975511965976
+TestThetadt is 0.5
+theta after rotation is 1.5471975511965976
+The values in TestXLocalArray are,
+5
+-2
+The values in TestYLocalArray are,
+10
+12
