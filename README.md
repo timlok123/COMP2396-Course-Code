@@ -2,7 +2,7 @@
 
 ## Description
 
-This GitHub Repository is set up to store the course code of COMP2396 - Object-Oriented Programming and Java at The University of Hong Kong. This course covers 
+This GitHub Repository is set up to store the course code of **COMP2396 - Object-Oriented Programming and Java** at The University of Hong Kong. This course covers 
 
 1. OOP in java
 2. Javadoc (Generate API documentation)
